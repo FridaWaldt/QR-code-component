@@ -6,7 +6,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -21,10 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![image](https://user-images.githubusercontent.com/70331019/156748179-d6aa84c7-f0ad-46ad-853e-1f83a467bb14.png)
 
-### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
