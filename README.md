@@ -6,6 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -19,6 +20,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![image](https://user-images.githubusercontent.com/70331019/156748179-d6aa84c7-f0ad-46ad-853e-1f83a467bb14.png)
+
+### Link
+https://fridawaldt.github.io/QR-code-component/
 
 
 
